@@ -2,8 +2,6 @@
 
 Mit diesem Repository wird von der ARX Gruppe AG (Bereich "Smart Networks", Aarau) den interessierten kantonalen Behörden, den Wasserversorgungen sowie den GWP-Planern ein schweizweiter Datensatz für die kommunale Optimierung der Wasserversorgungen zur Verfügung gestellt (kommunale Druckzonenkonzepte).
 
-Weitere Informationen können der PDF-Präsentation entnommen werden.
-
 Bei Interesse an unseren Dienstleistungen (z.B. Generelle Wasserversorgungsprojekte GWP) oder Fragen zu diesem Repository wenden Sie sich bitte an:
 tobias.noseda@arx.ing
 
