@@ -1,4 +1,4 @@
-# KommunaleDruckzonen
+# Kommunale Druckzonen
 
 Mit diesem Repository wird von der ARX Gruppe AG (Bereich "Smart Networks", Aarau) den interessierten kantonalen Behörden, den Wasserversorgungen sowie den GWP-Planern ein schweizweiter Datensatz für die kommunale Optimierung der Wasserversorgungen zur Verfügung gestellt (kommunale Druckzonenkonzepte).
 
